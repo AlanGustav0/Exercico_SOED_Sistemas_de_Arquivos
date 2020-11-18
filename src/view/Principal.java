@@ -55,6 +55,7 @@ public class Principal {
 				
 			default:
 				System.out.println("Opção inválida!");
+				break;
 				
 			case 9:
 				System.out.println("Programa Finalizado!");
